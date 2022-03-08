@@ -1,1 +1,1 @@
-script about shell
+shel

@@ -1,1 +1,1 @@
-script about shell
+0x02 shell directions
